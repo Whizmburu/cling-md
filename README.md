@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=28&duration=5000&pause=500&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=Hello+Champ,,,;This+is+WHIZ-MD;A+powerful+WhatsApp+buddy+by+Whiz;Thanks...+🟢💬;“Simple+chat,+Smarter+life”+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=League+Gothic&size=48&duration=3500&pause=500&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=Hello+Champ,,,;This+is+WHIZ-MD;A+powerful+WhatsApp+buddy+by+Whiz;Thanks...+🟢💬;“Simple+chat,+Smarter+life”+🚀)
